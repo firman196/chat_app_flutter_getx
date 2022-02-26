@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843773862758",
+    "project_id": "chatapps-firman",
+    "storage_bucket": "chatapps-firman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843773862758:android:28f1ead4c75b30c25a5ea7",
+        "android_client_info": {
+          "package_name": "firmandev.com.chat_app_flutter_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843773862758-326l2mrkvbdf85vj9t9numvf16n1m957.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firmandev.com.chat_app_flutter_getx",
+            "certificate_hash": "c5d970a2660cae0627328c060e2ef0e46b73f906"
+          }
+        },
+        {
+          "client_id": "843773862758-00gg1ksmlgp9b7ch6dn2r08vbujkdpr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NcWwXTP0tiXFGEl5X9qOKkfcunT65h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843773862758-00gg1ksmlgp9b7ch6dn2r08vbujkdpr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
